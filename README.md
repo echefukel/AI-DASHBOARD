@@ -9,7 +9,3 @@ A modern, responsive AI-powered dashboard built with **React.js**, **Tailwind CS
 - 🧭 **Sidebar Navigation**  
 - 👤 **Profile Settings**  
 
-### 🚀 Getting Started:  
-1. Clone the repo:  
-   ```sh
-   git clone https://github.com/yourusername/ai-dashboard.git
